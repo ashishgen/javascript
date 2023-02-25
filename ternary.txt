@@ -1,0 +1,33 @@
+What is Tenary Operator ?:
+
+conditions----->False------->Statement2
+    |
+    |
+    |
+    True
+    |
+    |
+    |
+    Statement
+
+
+(Condition)?True statement : False Statement
+
+var x = 15;
+var z;
+(x > 10) ? z ="True" : z = "False";
+
+var a = 100;
+var b;
+( a>23 )? b ="True": b="False";
+document.write(b);
+
+var a = 20;
+var b;
+b =( a>23 )? "True": "False";
+document.write(b);
+
+var a = 20;
+var b;
+b = "Value is " +( a>23 ? "True": "False");
+document.write(b);

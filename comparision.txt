@@ -1,0 +1,10 @@
+Different Type of Comparision Operators
+OPERATOR                      DESCRIPTION
+==                            Equal to
+===                           Equal value and equal Type
+!=                            Not equal
+!==                           Not equal value or not equal Type
+>                             greater than
+<                             less than
+>=                            greater than or equal to
+<=                            less than or equal to

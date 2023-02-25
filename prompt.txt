@@ -1,0 +1,7 @@
+prompt("What is your Name ?")
+
+var a = prompt("What is your Name ?")
+alert(a)
+
+var a=prompt("What is your Name ?")
+document.write(a)

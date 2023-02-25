@@ -1,0 +1,40 @@
+Introduction of javascript
+its is two types
+a.Client side servive b.Server side sevice
+
+Client base service firstly client reqest to Server for particular content
+then server serach all file which is client related
+c0ntent and send all cotent to client system .
+Ex.VB Script,JAVASCRIPT
+
+Server side service its all work in server 
+Ex.PHP
+.NET
+Python
+HTML
+
+javascript is a Event Based programming language
+*Click *key Press *Double Click *Key Up
+*Right Click *Load *Mouse Hover *Unload
+*Mouse Out *Resize *Drag Drop *Scroll
+
+Benifits of learning javascript
+WEB DEVELOPMENT  DESKTOP APP DEVELOPMENT  MOBILE APP DEVELOPMENT
+jQuery            Electron JS             AngularJS
+Angular                                   React Js
+React Js                                  Vue Js
+Vue                                       React Native
+ NodeJs                                         NodeJs
+
+Use of javascript in web DEVELOPMENT
+Dropdown Menu
+Animated Slider
+Maps
+Chart Graphs
+Pop up window
+Audio players
+Vedio players
+Zoom effect
+Animated Gallery
+Form Validation
+Calender

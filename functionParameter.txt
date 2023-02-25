@@ -1,0 +1,16 @@
+Type 1
+
+
+function name(parameter1,parameter2){
+    document.write("parameter1" + "parameter2");
+}
+name(123,432);
+
+
+
+Type 2
+
+function ball(a = "just",b = "click"){
+    document.write("Hello" + a + b);
+}
+ball();

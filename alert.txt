@@ -1,0 +1,23 @@
+Alert
+
+var a = 100;
+var b = 50;
+if(a>b){
+    alert("A is smaller");
+
+}else{
+    alert("B is Greater");
+
+}
+
+
+
+var a = 100;
+var b = 50;
+if(a>b){
+    alert(a+b);
+
+}else{
+    alert(a-b);
+
+}

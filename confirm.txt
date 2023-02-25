@@ -1,0 +1,8 @@
+confirm("Do you like this website ?");
+
+var a = confirm("Do you like this website ?");
+if(a){
+alert("kally");
+}else{
+alert("dobby");
+}

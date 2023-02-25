@@ -1,0 +1,31 @@
+different type of Airthmatic Operators:
+Operator                Description
++                       Addition
+-                       Subtraction
+*                       Multiplication
+**                      Exponentiation
+/                       Division
+%                       Modulus(Remainder)
+++                      Increment
+--                      Decrement
+
+Assignment operators:
+
+Operator          Example          SameAs
+=                 x=y                x=Yahoo
++=                x+=y               x=x+y
+-=                x-=y               x=x-y
+*=                x*=y               x=x*y
+/=                x/=y               x=x/y
+%=                x%=y               x=x%y
+**=               x**=y              x=x**y
+
+
+Google chrome Console
+console.log(x);
+console.table(x);
+console.error("some time its show");
+console.warn("its not bad");
+console.time("Test");
+console.timeEnd("Test");
+

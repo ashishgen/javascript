@@ -1,0 +1,32 @@
+What are Logical Operators?
+
+if------------->condition 1-------False
+                condition 2-------False------->Out
+                     |
+                     |
+                     |
+                   True
+                     |
+                     |
+                     |
+                Statement
+
+
+Different type of Logical Operators:
+
+Operators                 Name
+&&                     Logical AND
+||                     Logical OR
+!                      Logical NOT
+
+ case..1..   If(condition 1 && condition 2){
+                                }
+it must be true both condition
+ case..2..  if(condition 1 || condition 2){
+}
+Anyone True
+
+ case..3.. if (!Condition){
+
+ }
+ it revert the result

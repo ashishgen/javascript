@@ -1,0 +1,7 @@
+if else Statement in javascripts
+
+if(Condition True){
+    statement for True
+}else{
+    
+}

@@ -1,0 +1,24 @@
+SWITCH STATEMENT IN JAVA SCRIPT
+
+
+switch (expression) {
+    case condition 1:statement(s)
+    break;
+    case condition 2:statement(s)
+    break;
+    case condition 3:statement(s)
+    break;
+
+    default:statement(s)
+}
+
+var age = 24
+switch (true) {
+    case (age>=23 && age<=45) :document.write("You are eligible");
+    break;
+    case (age<=18 && age>=46) :document.write("yor are not eligible");
+    break;
+
+    default : document.write("Enter valid age");
+    
+}

@@ -1,0 +1,45 @@
+2 WAY TO IMPLEMENT JAVASVCRIPT
+INPAGE JAVASCRIPT
+EXTERNAL JAVASCRIPT
+
+
+INPAGE JAVASCRIPT
+
+
+<html>
+<head>
+<script>
+
+</script>
+
+
+</head>
+<body>
+
+
+<body>
+<h1>Yahoo baba</h1>
+<script>
+
+</script>
+
+</body>
+
+
+</html>
+
+
+EXTERNAL JAVASCRIPT file
+EX.MYSCRIPT
+<script src = "MYSCRIPT.JS"></script>
+
+DIFFERENT TYPE OF DATA TYPE
+
+var x = "hello world";    string
+var x = 23;               numbers
+var x =  true;            boolean
+var x = ["HTML","CSS","JS"]; ARRAY
+var x ={first:"jane",last:"Doe"}; object
+var x = null; null
+var x;  undefined
+ 

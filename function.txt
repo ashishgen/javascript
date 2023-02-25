@@ -1,0 +1,4 @@
+function functionName(){  //function defination
+    statement
+}
+functionName();//calling a function
